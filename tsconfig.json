@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "allowUnreachableCode": false,
+    "declaration": false,
+    "experimentalDecorators": true,
+    "lib": ["dom", "dom.iterable", "esnext", "esnext.asynciterable"],
+    "moduleResolution": "node",
+    "target": "ES5",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
+  },
+  "include": ["src", "types/jsx.d.ts"],
+  "exclude": ["node_modules"]
+}
