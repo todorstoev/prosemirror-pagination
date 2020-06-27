@@ -5,7 +5,8 @@
 ### Instalation
 
 
-> npm i prosemirror-pagination
+> npm i prosemirror-pagination 
+
 > import { paginationPlugin, schema } from 'prosemirror-pagination'
 
 ### Develop
